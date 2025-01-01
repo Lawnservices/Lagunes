@@ -1,0 +1,28 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: #625876;
+}
+.mas{
+  text-align: center;
+  background-color: #945795;
+  overflow: hidden;
+}
+.mas h2{
+  color: #fff;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#mas{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  font-size: 22px;
+  color: #851548;
+}
+#call{
+  text-align: left;
+  margin-left: 20px;
+  font-size: 20px;
+  color: #fff;
+}
