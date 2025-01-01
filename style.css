@@ -13,16 +13,19 @@ body{
   font-weight: bold;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.contenedor{
+ display: flex;
+  justify-content: center;
+  align-items: center;
+  height:50vh;
+  margin: 0;
+}
 #mas{
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bolder;
-  font-size: 22px;
+  font-size: 26px;
   color: #851548;
+   
 }
-#call{
-  text-align: left;
-  margin-left: 20px;
-  font-size: 20px;
-  color: #fff;
-}
+ 
