@@ -1,4 +1,4 @@
-document.getElementById('mas').textContent = 'The best prices in the area Call Now 240 883 8479'; 
-
+document.getElementById('mas').textContent = 'The best prices in the area'; 
+document.getElementById('time').textContent = new Date().getFullYear();
 
 
